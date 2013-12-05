@@ -1,0 +1,13 @@
+white
+red
+green
+blue
+circle
+upper
+lower
+center
+bigger
+smaller
+cat
+time
+light
